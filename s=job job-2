@@ -1,0 +1,117 @@
+[33mcommit 72ca3c41be815f24184b74acb4b02501fee570a1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: salmonshoe <rafaelreynoso273@gmail.com>
+Date:   Wed Jul 24 07:32:44 2019 -0400
+
+    modify projects displayed and updated about me details
+
+[33mcommit 5a8c3b91dc4ce8da456fddba9329dcde7a3a8403[m
+Merge: 112edf3 16beadc
+Author: salmonshoe <rafaelreynoso273@gmail.com>
+Date:   Wed Jun 26 13:22:18 2019 -0400
+
+    resolve CNAME merge issue
+
+[33mcommit 112edf3b2da73309ff4259adb65f195b3879c98d[m
+Author: salmonshoe <rafaelreynoso273@gmail.com>
+Date:   Wed Jun 26 13:20:04 2019 -0400
+
+    new project added
+
+[33mcommit 16beadc51a3a8c0c872733a16009a73a37588ff2[m
+Author: Rafael Reynoso <rafaelreynoso273@gmail.com>
+Date:   Wed Jun 12 23:26:39 2019 -0400
+
+    Create CNAME
+
+[33mcommit 4e68eeb8f1f345e3c8b0481f257399303ffa60a1[m
+Author: salmonshoe <rafaelreynoso273@gmail.com>
+Date:   Sat Jun 8 23:29:51 2019 -0400
+
+    add CNAME file
+
+[33mcommit 9145db0aa20a691bc9faa26ef3ae3923eb5555b3[m
+Author: Rafael Reynoso <rafaelreynoso273@gmail.com>
+Date:   Sat Jun 8 23:25:55 2019 -0400
+
+    Delete CNAME
+
+[33mcommit 1a1907dac094bfe92c7c69d37c26e185c8280a3f[m
+Author: Rafael Reynoso <rafaelreynoso273@gmail.com>
+Date:   Sat Jun 8 23:25:16 2019 -0400
+
+    Create CNAME
+
+[33mcommit 20eb727f0d88bf30f45347141a8de2b8bb6e463b[m
+Author: salmonshoe <rafaelreynoso273@gmail.com>
+Date:   Sat Jun 8 23:06:30 2019 -0400
+
+    Added project images and links to work.html. Modified information on the other pages to stay up-to-date
+
+[33mcommit 0b614ff155c6ded54880341131b95307564426e6[m
+Merge: 2a3e700 e4dd461
+Author: Rafael Reynoso <rafaelreynoso273@gmail.com>
+Date:   Sat Jun 8 02:05:13 2019 -0400
+
+    Merge pull request #1 from salmonshoe/folderCorrection
+    
+    Straighten this out
+
+[33mcommit e4dd46149202df641e1cc41eeb9811ee6ff4ebb7[m[33m ([m[1;31morigin/folderCorrection[m[33m, [m[1;32mfolderCorrection[m[33m)[m
+Author: salmonshoe <rafaelreynoso273@gmail.com>
+Date:   Sat Jun 8 02:02:37 2019 -0400
+
+    html files moved to root for github pages deployment and aboutMe image change.
+
+[33mcommit 2a3e7002e714fb392f9a731abbed342f69665c09[m
+Author: salmonshoe <rafaelreynoso273@gmail.com>
+Date:   Fri Jun 7 10:21:23 2019 -0400
+
+    index.html switch for github pages
+
+[33mcommit 7c679ffacb94e9e783257fc85b086684086aef6b[m
+Author: salmonshoe <rafaelreynoso273@gmail.com>
+Date:   Fri Jun 7 05:49:03 2019 -0400
+
+    github pages deployment correction
+
+[33mcommit d05e8b8c913d693e3b9739144d678cfcf08a73b6[m
+Author: salmonshoe <rafaelreynoso273@gmail.com>
+Date:   Thu Jun 6 17:36:05 2019 -0400
+
+    include the css for work.html contact.html also with button styles and media queries for project display
+
+[33mcommit d0cd826be1dc6a6dae6e8c4c6749fe4e7956d772[m
+Author: salmonshoe <rafaelreynoso273@gmail.com>
+Date:   Thu Jun 6 17:02:08 2019 -0400
+
+    About Me page added, modify text color with a function for any future changes
+
+[33mcommit 4bf3ecfa4757d9c1babd6a8af5937f7d5e5d7d11[m
+Author: salmonshoe <rafaelreynoso273@gmail.com>
+Date:   Thu Jun 6 16:30:27 2019 -0400
+
+    add media queries to _config to maintain mobile responsiveness
+
+[33mcommit bb30098ba20d7668bae498ded6b22ee2ecc1bb1f[m
+Author: salmonshoe <rafaelreynoso273@gmail.com>
+Date:   Thu Jun 6 16:09:05 2019 -0400
+
+    menu overlay changes, not mobile responsive!
+
+[33mcommit e89b4067ca519db9eea7954412cf8230ffe28bce[m
+Author: salmonshoe <rafaelreynoso273@gmail.com>
+Date:   Thu Jun 6 15:42:08 2019 -0400
+
+    menu button with javascript functionality & css rotation
+
+[33mcommit 2a5f96393646b4f12575b9d39c99a4861d2b3104[m
+Author: salmonshoe <rafaelreynoso273@gmail.com>
+Date:   Wed Jun 5 05:28:38 2019 -0400
+
+    image uploads along with main sass & _config partials
+
+[33mcommit 7b82ddfcfea4e6512900b0c2a4db54ddbadff2c8[m
+Author: salmonshoe <rafaelreynoso273@gmail.com>
+Date:   Tue Jun 4 13:26:44 2019 -0400
+
+    Initial workflow skeleton
